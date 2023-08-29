@@ -8,3 +8,4 @@ Task 3: ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/2209c756
 Task 4: ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/cd1f79d0-5f68-42fb-8deb-1a6c3c443efa)
 Task 5: ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/ab66e8b3-a94c-49da-a490-d0c5db967671)
 Task 6: ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/b3f42ec0-e7cf-4517-97af-799f53001eb7)
+Task 7: ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/5feee0c5-41a7-4f6e-9e0e-0577e98df186)
