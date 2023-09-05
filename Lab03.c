@@ -19,21 +19,21 @@ Question3:
 #include <stdio.h>
 #include <math.h>
 
-int main() {
-  int Perp;
+float main() {
+  float Perp;
      printf("Enter Length of perpendicular");
-     scanf("%d",&Perp);
-  int Base;
+     scanf("%f",&Perp);
+  float Base;
      printf("Enter length of base");
-     scanf("%d",&Base);
-  int Hyp;
-  int Base_Sq;
-  int Perp_Sq;
+     scanf("%f",&Base);
+  float Hyp;
+  float Base_Sq;
+  float Perp_Sq;
      Base_Sq=Base*Base;
      Perp_Sq=Perp*Perp;
-  int Temp;
+  float Temp;
      Temp=Base_Sq+Perp_Sq;
   Hyp=sqrt(Temp);
-  printf("%d",Hyp);
+  printf("%f",Hyp);
   return 1;
 }
