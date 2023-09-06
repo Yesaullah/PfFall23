@@ -42,7 +42,7 @@ int main() {
   int height;
   int length;
   length=10;
-  width=10
+  width=10;
   height=20;
   volume=length*width*height;
   printf("%d",volume);
@@ -54,7 +54,7 @@ Question3:
 #include <stdio.h>
 #include <math.h>
 
-float main() {
+main() {
   float Perp;
      printf("Enter Length of perpendicular");
      scanf("%f",&Perp);
@@ -69,6 +69,7 @@ float main() {
   float Temp;
      Temp=Base_Sq+Perp_Sq;
   Hyp=sqrt(Temp);
+  printf("The length of hypotenuse is");
   printf("%f",Hyp);
   return 1;
 }
