@@ -9,3 +9,6 @@ Question3:
 
 Question4:
 ![image](https://github.com/Yesaullah/PfFall23/assets/142867724/dbc1074b-0f51-49dc-a3e6-88997b7c1f52)
+
+Question5:
+![image](https://github.com/Yesaullah/PfFall23/assets/142867724/ebac2d45-925d-4e04-844f-ee1e549c4b0f)
