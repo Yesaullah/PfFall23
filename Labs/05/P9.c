@@ -43,12 +43,5 @@ int main()
 	else 
 	{
 		printf("Roots are imaginary: \n");
-		r1 = (-b + sqrt(discriminant)) / (2 * a);
-    	r2 = (-b - sqrt(discriminant)) / (2 * a);
-		printf("The first root is equals to: ");
-		printf("%f", r1);
-		printf("\n");
-		printf("The second root is equals to: ");
-		printf("%f", r2);
 	}
 }
