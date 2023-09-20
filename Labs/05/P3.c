@@ -15,10 +15,10 @@ int main()
 			printf("Deleted succcessfully");
 			break;
 		case 'N':
-			printf("Deleted cancelled");
+			printf("Delete cancelled");
 			break;
 		case 'n':
-			printf("Deleted cancelled");
+			printf("Delete cancelled");
 			break;
 		default:
 			printf("Enter valid choice");
