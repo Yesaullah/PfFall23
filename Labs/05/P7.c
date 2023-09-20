@@ -3,8 +3,8 @@
 int main() {
 	
 	int OrigPrice;
-	int save;
-	int salP;
+	float save;
+	float salP;
 	float disc;
 	
 	printf("Enter the original price of the item: \n ");
@@ -15,24 +15,24 @@ int main() {
 		disc=0.2;
 		save=(OrigPrice)*(disc);
 		salP=OrigPrice-save;
-		printf("%d is the amount saved. \n", save);
-		printf("%d is the discounted price.", salP);
+		printf("%f is the amount saved. \n", save);
+		printf("%f is the discounted price.", salP);
 	}
 	else if(OrigPrice >= 4001 && OrigPrice <= 6000)
 	{
 		disc=0.3;
 		save=(OrigPrice)*(disc);
 		salP=OrigPrice - save;
-		printf("%d is the amount saved. \n", save);
-		printf("%d is the discounted price.", salP);
+		printf("%f is the amount saved. \n", save);
+		printf("%f is the discounted price.", salP);
 	}
 	else if (OrigPrice > 6000)
 	{
 		disc=0.5;
 		save=(OrigPrice)*(disc);
 		salP=OrigPrice-save;
-		printf("%d is the amount saved. \n", save);
-		printf("%d is the discounted price.", salP);
+		printf("%f is the amount saved. \n", save);
+		printf("%f is the discounted price.", salP);
 	}
 	else 
 	{
