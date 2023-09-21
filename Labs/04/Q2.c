@@ -6,7 +6,7 @@ int main() {
 	printf("enter your number:");
 	scanf("%d",&num);
 
-	int count=0;
+	int count=1;
 	while(count<=num) {
 		int count2=1;
 		while(count2<=num){
