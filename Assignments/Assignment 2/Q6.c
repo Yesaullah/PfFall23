@@ -1,3 +1,8 @@
+/*
+	Name: Mohammad Yesaullah Sheikh
+	Date: 24/10/2023
+	Description: Finding two numbers in an array whose sum is equal to t.
+*/
 #include <stdio.h>
 
 int main(){
