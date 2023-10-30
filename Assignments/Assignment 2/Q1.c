@@ -1,3 +1,8 @@
+/*
+	Name: Mohammad Yesaullah Sheikh
+	Date: 23/10/2023
+	Description: Innings records for different players.
+*/
 #include <stdio.h>
 
 int main()
