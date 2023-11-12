@@ -1,3 +1,8 @@
+/*
+	Name: Mohammad Yesaullah Sheikh
+	Description: Printing spiral patterns using 2D arrays in two different ways.
+*/
+
 #include<stdio.h>
 
 int main()
