@@ -1,3 +1,8 @@
+/*
+	Name: Mohammad Yesaullah Sheikh
+	Description: Determining the persistence of a number.
+*/
+
 #include<stdio.h>
 
 int Mul(int n); //Userdefined function to determine persistence 
