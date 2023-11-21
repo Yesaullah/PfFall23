@@ -1,7 +1,7 @@
 /*
 	Name: Yesaullah
 	Date: 21/11/2023
-	Desc: Forming a record of college students using structures and printing specific data for specific conditions
+	Desc: Comparing two dates and checking if they are equal or not 
 */
 #include <stdio.h>
 #include <string.h>
