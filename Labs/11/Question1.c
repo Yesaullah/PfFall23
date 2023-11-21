@@ -1,3 +1,9 @@
+/*
+	Name: Yesaullah
+	Date: 21/11/2023
+	Desc: Forming a record of college students using structures and printing specific data for specific conditions
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
