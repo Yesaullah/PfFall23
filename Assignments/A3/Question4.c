@@ -1,6 +1,6 @@
 /*
 	Name:Mohammad Yesaullah 
-	Description: 
+	Description: Printing the details of employees with highest salaries in different departments and the total salaries paid in each department.
 */
 
 #include <stdio.h>
