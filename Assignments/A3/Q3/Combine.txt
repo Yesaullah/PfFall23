@@ -1,0 +1,5 @@
+1,Yesaullah,10000
+2,Ehtisham,15000
+3,Amarha,20000
+4,Zonaisha,25000
+5,Rida,30000
